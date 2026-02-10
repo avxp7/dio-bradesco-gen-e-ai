@@ -27,5 +27,3 @@ Este repositório reúne todos os projetos e exercícios que desenvolvi durante 
 
 [testTuring]: media/TuringMind/testTuring.png
 [CertificadoM1]: media/TuringMind/CerificadoM1.png
-
-### 🤖 [Módulo 02] Em andamento...
